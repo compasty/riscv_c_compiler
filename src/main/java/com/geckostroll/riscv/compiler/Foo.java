@@ -1,7 +1,3 @@
-/*
- * Ant Group
- * Copyright (c) 2004-2022 All Rights Reserved.
- */
 package com.geckostroll.riscv.compiler;
 
 import com.google.common.base.Joiner;
